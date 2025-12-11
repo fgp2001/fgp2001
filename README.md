@@ -15,6 +15,7 @@
 <p align="left">
   📚 Actualmente aprendiendo Spring MVC<br>
   🎯 Objetivo: Seguir creciendo como desarrollador y sumar nuevas tecnologías a mi stack<br>
+  📚 Mis Proyectos: https://facundopereira.netlify.app/
   📫 Contacto: fgp_2001@hotmail.com
 </p>
 
